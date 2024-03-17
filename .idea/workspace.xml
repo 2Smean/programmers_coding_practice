@@ -38,6 +38,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lv0_01양꼬치.executor": "Run",
+    "Application.Lv0_06아이스아메리카노.executor": "Run",
+    "Application.Lv0_07배열두배만들기.executor": "Run",
+    "Application.Lv0_08배열원소의길이.executor": "Run",
+    "Application.Lv0_09삼각형의완성조건.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
     "Application.programmers_003.executor": "Run",
@@ -45,6 +50,7 @@
     "Application.programmers_005.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -57,6 +63,82 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Lv0_10짝수홀수개수">
+    <configuration name="Lv0_06아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_06아이스아메리카노" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source_files.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_07배열두배만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_07배열두배만들기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source_files.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_08배열원소의길이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_08배열원소의길이" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source_files.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_09삼각형의완성조건" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_09삼각형의완성조건" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source_files.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_10짝수홀수개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_10짝수홀수개수" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="source_files.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lv0_10짝수홀수개수" />
+        <item itemvalue="Application.Lv0_09삼각형의완성조건" />
+        <item itemvalue="Application.Lv0_08배열원소의길이" />
+        <item itemvalue="Application.Lv0_07배열두배만들기" />
+        <item itemvalue="Application.Lv0_06아이스아메리카노" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +156,7 @@
       <updated>1710576072943</updated>
       <workItem from="1710576074010" duration="845000" />
       <workItem from="1710576928133" duration="903000" />
-      <workItem from="1710578064079" duration="2560000" />
+      <workItem from="1710578064079" duration="10416000" />
     </task>
     <servers />
   </component>

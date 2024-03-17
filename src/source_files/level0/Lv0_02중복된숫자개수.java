@@ -1,6 +1,6 @@
 package source_files.level0;
 /*[0단계] 중복된 숫자 개수*/
-public class programmers_002 {
+public class Lv0_02중복된숫자개수 {
     public static void main(String[] args) {
         int[] array = {2,2,3,4,5,6};
         int N = 2;
