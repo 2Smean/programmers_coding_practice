@@ -2,7 +2,7 @@ package source_files.level0;
 
 import java.util.Arrays;
 
-public class Lv0_10짝수홀수개수 {
+public class Lv0_10_짝수홀수개수 {
     public static void main(String[] args) {
         int[] num_list = {1, 2, 3, 4, 5};
         System.out.println(Arrays.toString(solution(num_list)));

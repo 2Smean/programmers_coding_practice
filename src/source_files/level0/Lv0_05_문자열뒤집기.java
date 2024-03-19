@@ -2,7 +2,7 @@ package source_files.level0;
 /*[0단계] 문자열 뒤집기
     문자열의 길이를 얻을 때에는 length 뒤에 ()중괄호
 */
-public class Lv0_05문자열뒤집기 {
+public class Lv0_05_문자열뒤집기 {
 
     public static void main(String[] args) {
         String my_string = "result";

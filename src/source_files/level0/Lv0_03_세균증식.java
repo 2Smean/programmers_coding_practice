@@ -1,6 +1,6 @@
 package source_files.level0;
 /*[0단계] 세균증식*/
-public class Lv0_03세균증식 {
+public class Lv0_03_세균증식 {
     public static void main(String[] args) {
         int N = 3;
         int T = 5;

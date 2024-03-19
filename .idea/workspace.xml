@@ -43,11 +43,17 @@
     "Application.Lv0_07배열두배만들기.executor": "Run",
     "Application.Lv0_08배열원소의길이.executor": "Run",
     "Application.Lv0_09삼각형의완성조건.executor": "Run",
+    "Application.Lv0_10짝수홀수개수.executor": "Run",
+    "Application.Lv0_11_배열자르기.executor": "Run",
+    "Application.Lv0_12_피자나눠먹기3.executor": "Run",
+    "Application.Lv0_13_특정문자제거하기.executor": "Run",
+    "Application.Lv0_15_각도기.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
     "Application.programmers_003.executor": "Run",
     "Application.programmers_004.executor": "Run",
     "Application.programmers_005.executor": "Run",
+    "Application.연습.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -63,9 +69,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_10짝수홀수개수">
-    <configuration name="Lv0_06아이스아메리카노" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_06아이스아메리카노" />
+  <component name="RunManager" selected="Application.Lv0_16_피자나눠먹기1">
+    <configuration name="연습" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.연습" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_07배열두배만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_07배열두배만들기" />
+    <configuration name="Lv0_13_특정문자제거하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_13_특정문자제거하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_08배열원소의길이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_08배열원소의길이" />
+    <configuration name="Lv0_14_문자열안에문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_14_문자열안에문자열" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_09삼각형의완성조건" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_09삼각형의완성조건" />
+    <configuration name="Lv0_15_각도기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_15_각도기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_10짝수홀수개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_10짝수홀수개수" />
+    <configuration name="Lv0_16_피자나눠먹기1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_16_피자나눠먹기1" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_10짝수홀수개수" />
-        <item itemvalue="Application.Lv0_09삼각형의완성조건" />
-        <item itemvalue="Application.Lv0_08배열원소의길이" />
-        <item itemvalue="Application.Lv0_07배열두배만들기" />
-        <item itemvalue="Application.Lv0_06아이스아메리카노" />
+        <item itemvalue="Application.Lv0_16_피자나눠먹기1" />
+        <item itemvalue="Application.Lv0_14_문자열안에문자열" />
+        <item itemvalue="Application.Lv0_15_각도기" />
+        <item itemvalue="Application.연습" />
+        <item itemvalue="Application.Lv0_13_특정문자제거하기" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +162,7 @@
       <updated>1710576072943</updated>
       <workItem from="1710576074010" duration="845000" />
       <workItem from="1710576928133" duration="903000" />
-      <workItem from="1710578064079" duration="10416000" />
+      <workItem from="1710578064079" duration="18850000" />
     </task>
     <servers />
   </component>

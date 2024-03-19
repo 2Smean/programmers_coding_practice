@@ -5,7 +5,7 @@ import java.util.Arrays;
   Arrays.toString으로 묶어주거나 배열의 요소를 하나하나 출력하는 방법으로
   출력해야한다.
 */
-public class Lv0_06아이스아메리카노 {
+public class Lv0_06_아이스아메리카노 {
     public static void main(String[] args) {
         int money = 5500;
         System.out.println(Arrays.toString(solution(money)));
