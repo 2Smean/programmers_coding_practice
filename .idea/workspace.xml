@@ -53,6 +53,10 @@
     "Application.Lv0_17_최댓값만들기1.executor": "Run",
     "Application.Lv0_18_자릿수더하기.executor": "Run",
     "Application.Lv0_20_중앙값구하기.executor": "Run",
+    "Application.Lv0_21_짝수의합.executor": "Run",
+    "Application.Lv0_22_배열의평균값.executor": "Run",
+    "Application.Lv0_23_배열뒤집기.executor": "Run",
+    "Application.Lv0_24_점의위치구하기.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
     "Application.programmers_003.executor": "Run",
@@ -74,9 +78,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_20_중앙값구하기">
-    <configuration name="Lv0_14_문자열안에문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_14_문자열안에문자열" />
+  <component name="RunManager" selected="Application.Lv0_25_배열의유사도">
+    <configuration name="Lv0_21_짝수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_21_짝수의합" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_16_피자나눠먹기1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_16_피자나눠먹기1" />
+    <configuration name="Lv0_22_배열의평균값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_22_배열의평균값" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_17_최댓값만들기1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_17_최댓값만들기1" />
+    <configuration name="Lv0_23_배열뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_23_배열뒤집기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_18_자릿수더하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_18_자릿수더하기" />
+    <configuration name="Lv0_24_점의위치구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_24_점의위치구하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_20_중앙값구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_20_중앙값구하기" />
+    <configuration name="Lv0_25_배열의유사도" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="source_files.level0.Lv0_25_배열의유사도" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_20_중앙값구하기" />
-        <item itemvalue="Application.Lv0_18_자릿수더하기" />
-        <item itemvalue="Application.Lv0_17_최댓값만들기1" />
-        <item itemvalue="Application.Lv0_14_문자열안에문자열" />
-        <item itemvalue="Application.Lv0_16_피자나눠먹기1" />
+        <item itemvalue="Application.Lv0_25_배열의유사도" />
+        <item itemvalue="Application.Lv0_24_점의위치구하기" />
+        <item itemvalue="Application.Lv0_23_배열뒤집기" />
+        <item itemvalue="Application.Lv0_22_배열의평균값" />
+        <item itemvalue="Application.Lv0_21_짝수의합" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +171,7 @@
       <updated>1710576072943</updated>
       <workItem from="1710576074010" duration="845000" />
       <workItem from="1710576928133" duration="903000" />
-      <workItem from="1710578064079" duration="25482000" />
+      <workItem from="1710578064079" duration="28062000" />
     </task>
     <servers />
   </component>
