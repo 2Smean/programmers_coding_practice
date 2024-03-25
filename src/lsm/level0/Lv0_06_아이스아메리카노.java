@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 
 import java.util.Arrays;
 /*배열은 주소값이 들어있기 때문에 단순히 출력하지 못한다

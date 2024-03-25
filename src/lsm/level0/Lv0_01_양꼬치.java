@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*
 [0단계] 양꼬치
 */

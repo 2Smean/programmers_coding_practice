@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*java에서 특정문자를 제거할 때에는 replace 를 통해서
  해당 문자를 빈문자열로 변환할 수 있다
  프로그래머스를 풀면서 이렇게 메서드를 사용하는것보다

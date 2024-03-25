@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*[0단계] 세균증식*/
 public class Lv0_03_세균증식 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*[0단계] 머쓱이보다 키큰사람*/
 public class Lv0_04_머쓱이보다키큰사람 {
     public static void main(String[] args) {

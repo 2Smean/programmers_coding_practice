@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 
 public class Lv0_25_배열의유사도 {
     public static void main(String[] args) {

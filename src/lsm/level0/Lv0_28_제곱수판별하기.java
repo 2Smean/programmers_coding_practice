@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*i * i == n 조건이 한 번도 충족되지 않으면 return 2;*/
 public class Lv0_28_제곱수판별하기 {
     public static void main(String[] args) {
