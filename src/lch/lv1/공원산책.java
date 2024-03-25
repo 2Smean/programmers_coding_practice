@@ -38,27 +38,33 @@ public class 공원산책 {
             String direction = String.valueOf(routes[i].charAt(0));
             int moving = Integer.parseInt(String.valueOf(routes[i].charAt(2)));
 
+            int dx = 0;
+            int dy = 0;
+            if(direction.equals("E")){ // 동
+                dy = moving;
+            }
+            else if(direction.equals("W")){ // 서
+                dy = -moving;
+            }
+            else if(direction.equals("S")){ // 남
+                dx = moving;
+            }
+            else if(direction.equals("N")){ // 북
+                dx = -moving;
+            }
+
             while (!deque.isEmpty()){
                 Node now = deque.pollFirst();
-                int nx = now.x;
-                int ny = now.y;
-                if(direction.equals("E")){ // 동
-                    ny += moving;
-                }
-                else if(direction.equals("W")){ // 서
-                    ny -=moving;
-                }
-                else if(direction.equals("S")){ // 남
-                    nx += moving;
-                }
-                else if(direction.equals("N")){ // 북
-                    nx -= moving;
-                }
+                int nx = now.x + dx;
+                int ny = now.y + dy;
 
                 if(ny<0 || nx<0 || nx>=maps.length || ny>= maps[0].length || maps[nx][ny].equals("X")) {
-                    continue;
+
+                    break;
                 }
                 else {
+                    System.out.println("nx = " + nx);
+                    System.out.println("ny = " + ny);
                     maps[now.x][now.y] = "O";
                     maps[nx][ny] = "S";
                     deque.addLast(new Node(nx, ny));
