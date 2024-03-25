@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 
 public class Lv0_16_피자나눠먹기1 {
     public static void main(String[] args) {

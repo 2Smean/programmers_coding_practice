@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 
 public class Lv0_27_모음제거 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 
 public class Lv0_24_점의위치구하기 {
     public static void main(String[] args) {

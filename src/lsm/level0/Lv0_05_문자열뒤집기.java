@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*[0단계] 문자열 뒤집기
     문자열의 길이를 얻을 때에는 length 뒤에 ()중괄호
 */

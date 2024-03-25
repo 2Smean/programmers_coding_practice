@@ -1,4 +1,4 @@
-package source_files.level0;
+package lsm.level0;
 /*[0단계] 중복된 숫자 개수*/
 public class Lv0_02_중복된숫자개수 {
     public static void main(String[] args) {
