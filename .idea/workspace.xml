@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lv0_01_양꼬치.executor": "Run",
     "Application.Lv0_01양꼬치.executor": "Run",
     "Application.Lv0_06아이스아메리카노.executor": "Run",
     "Application.Lv0_07배열두배만들기.executor": "Run",
@@ -63,6 +64,7 @@
     "Application.Lv0_28_제곱수판별하기.executor": "Run",
     "Application.Lv0_29_숨어있는숫자의덧셈1.executor": "Run",
     "Application.Lv0_30_n의배수고르기.executor": "Run",
+    "Application.Lv0_31_짝수는싫어요.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
     "Application.programmers_003.executor": "Run",
@@ -84,22 +86,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_30_n의배수고르기">
-    <configuration name="Lv0_25_배열의유사도" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_25_배열의유사도" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_27_모음제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_27_모음제거" />
+  <component name="RunManager" selected="Application.Lv0_31_짝수는싫어요">
+    <configuration name="Lv0_01_양꼬치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_01_양꼬치" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -150,13 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_31_짝수는싫어요" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_31_짝수는싫어요" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_31_짝수는싫어요" />
+        <item itemvalue="Application.Lv0_01_양꼬치" />
         <item itemvalue="Application.Lv0_30_n의배수고르기" />
         <item itemvalue="Application.Lv0_29_숨어있는숫자의덧셈1" />
         <item itemvalue="Application.Lv0_28_제곱수판별하기" />
-        <item itemvalue="Application.Lv0_27_모음제거" />
-        <item itemvalue="Application.Lv0_25_배열의유사도" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +181,7 @@
       <workItem from="1710576928133" duration="903000" />
       <workItem from="1710578064079" duration="34930000" />
       <workItem from="1711350165263" duration="101000" />
-      <workItem from="1711372256847" duration="1879000" />
+      <workItem from="1711372256847" duration="4370000" />
     </task>
     <servers />
   </component>
