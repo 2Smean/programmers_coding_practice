@@ -37,7 +37,11 @@ public class 가장많이받은선물 {
         for (String giver : friends) {
             for (String receiver : friends) {
                 if(!giver.equals(receiver)){
-                    System.out.print(receiver + "/");
+                    int gift = giftMap.get(giver).getOrDefault(receiver, 0);
+                    int receive = giftMap.get(receiver).getOrDefault(giver, 0);
+
+                    System.out.println("gift = " + gift);
+                    System.out.println(receive);
                 }
             }
             System.out.println();
