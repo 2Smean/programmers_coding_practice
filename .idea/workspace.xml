@@ -71,6 +71,11 @@
     "Application.Lv0_35_정수부분.executor": "Run",
     "Application.Lv0_36_문자열뒤의n글자.executor": "Run",
     "Application.Lv0_37_조건에맞게수열변환하기3.executor": "Run",
+    "Application.Lv0_38_n의배수.executor": "Run",
+    "Application.Lv0_39_문자열앞의n글자.executor": "Run",
+    "Application.Lv0_40_flag에따라다른값반환하기.executor": "Run",
+    "Application.Lv0_41_첫번째로나오는음수.executor": "Run",
+    "Application.getOrDefault.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
     "Application.programmers_003.executor": "Run",
@@ -92,9 +97,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_37_조건에맞게수열변환하기3">
-    <configuration name="Lv0_33_공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_33_공배수" />
+  <component name="RunManager" selected="Application.Lv0_42_rny_string">
+    <configuration name="Lv0_39_문자열앞의n글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_39_문자열앞의n글자" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_34_암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_34_암호해독" />
+    <configuration name="Lv0_40_flag에따라다른값반환하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_40_flag에따라다른값반환하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_35_정수부분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_35_정수부분" />
+    <configuration name="Lv0_41_첫번째로나오는음수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_41_첫번째로나오는음수" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_36_문자열뒤의n글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_36_문자열뒤의n글자" />
+    <configuration name="Lv0_42_rny_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_42_rny_string" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_37_조건에맞게수열변환하기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_37_조건에맞게수열변환하기3" />
+    <configuration name="getOrDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lch.study.getOrDefault" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="PATTERN" value="lch.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_37_조건에맞게수열변환하기3" />
-        <item itemvalue="Application.Lv0_36_문자열뒤의n글자" />
-        <item itemvalue="Application.Lv0_35_정수부분" />
-        <item itemvalue="Application.Lv0_34_암호해독" />
-        <item itemvalue="Application.Lv0_33_공배수" />
+        <item itemvalue="Application.Lv0_42_rny_string" />
+        <item itemvalue="Application.Lv0_41_첫번째로나오는음수" />
+        <item itemvalue="Application.getOrDefault" />
+        <item itemvalue="Application.Lv0_40_flag에따라다른값반환하기" />
+        <item itemvalue="Application.Lv0_39_문자열앞의n글자" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +192,7 @@
       <workItem from="1710576928133" duration="903000" />
       <workItem from="1710578064079" duration="34930000" />
       <workItem from="1711350165263" duration="101000" />
-      <workItem from="1711372256847" duration="11731000" />
+      <workItem from="1711372256847" duration="16083000" />
     </task>
     <servers />
   </component>
