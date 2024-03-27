@@ -44,6 +44,7 @@
     "Application.Lv0_07배열두배만들기.executor": "Run",
     "Application.Lv0_08배열원소의길이.executor": "Run",
     "Application.Lv0_09삼각형의완성조건.executor": "Run",
+    "Application.Lv0_0_34_암호해독.executor": "Run",
     "Application.Lv0_10짝수홀수개수.executor": "Run",
     "Application.Lv0_11_배열자르기.executor": "Run",
     "Application.Lv0_12_피자나눠먹기3.executor": "Run",
@@ -65,6 +66,11 @@
     "Application.Lv0_29_숨어있는숫자의덧셈1.executor": "Run",
     "Application.Lv0_30_n의배수고르기.executor": "Run",
     "Application.Lv0_31_짝수는싫어요.executor": "Run",
+    "Application.Lv0_32_가위바위보.executor": "Run",
+    "Application.Lv0_33_공배수.executor": "Run",
+    "Application.Lv0_35_정수부분.executor": "Run",
+    "Application.Lv0_36_문자열뒤의n글자.executor": "Run",
+    "Application.Lv0_37_조건에맞게수열변환하기3.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
     "Application.programmers_003.executor": "Run",
@@ -86,9 +92,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_31_짝수는싫어요">
-    <configuration name="Lv0_01_양꼬치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_01_양꼬치" />
+  <component name="RunManager" selected="Application.Lv0_37_조건에맞게수열변환하기3">
+    <configuration name="Lv0_33_공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_33_공배수" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_28_제곱수판별하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_28_제곱수판별하기" />
+    <configuration name="Lv0_34_암호해독" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_34_암호해독" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_29_숨어있는숫자의덧셈1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_29_숨어있는숫자의덧셈1" />
+    <configuration name="Lv0_35_정수부분" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_35_정수부분" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_30_n의배수고르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_30_n의배수고르기" />
+    <configuration name="Lv0_36_문자열뒤의n글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_36_문자열뒤의n글자" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_31_짝수는싫어요" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_31_짝수는싫어요" />
+    <configuration name="Lv0_37_조건에맞게수열변환하기3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_37_조건에맞게수열변환하기3" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_31_짝수는싫어요" />
-        <item itemvalue="Application.Lv0_01_양꼬치" />
-        <item itemvalue="Application.Lv0_30_n의배수고르기" />
-        <item itemvalue="Application.Lv0_29_숨어있는숫자의덧셈1" />
-        <item itemvalue="Application.Lv0_28_제곱수판별하기" />
+        <item itemvalue="Application.Lv0_37_조건에맞게수열변환하기3" />
+        <item itemvalue="Application.Lv0_36_문자열뒤의n글자" />
+        <item itemvalue="Application.Lv0_35_정수부분" />
+        <item itemvalue="Application.Lv0_34_암호해독" />
+        <item itemvalue="Application.Lv0_33_공배수" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +187,7 @@
       <workItem from="1710576928133" duration="903000" />
       <workItem from="1710578064079" duration="34930000" />
       <workItem from="1711350165263" duration="101000" />
-      <workItem from="1711372256847" duration="4370000" />
+      <workItem from="1711372256847" duration="11731000" />
     </task>
     <servers />
   </component>
