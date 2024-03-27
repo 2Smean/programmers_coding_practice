@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad26399b-0add-492e-88da-2c1fa0bded00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_coding_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/source_files/level0/programmers_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/lv1/가장많이받은선물.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lch/lv1/가장많이받은선물.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +31,7 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lv0_01_양꼬치.executor": "Run",
@@ -100,6 +96,67 @@
   <component name="RunManager" selected="Application.Lv0_42_rny_string">
     <configuration name="Lv0_39_문자열앞의n글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_39_문자열앞의n글자" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lv0_01_양꼬치.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_01양꼬치.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_06아이스아메리카노.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_07배열두배만들기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_08배열원소의길이.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_09삼각형의완성조건.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_0_34_암호해독.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_10짝수홀수개수.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_11_배열자르기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_12_피자나눠먹기3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_13_특정문자제거하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_14_문자열안에문자열.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_15_각도기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_16_피자나눠먹기1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_17_최댓값만들기1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_18_자릿수더하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_20_중앙값구하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_21_짝수의합.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_22_배열의평균값.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_23_배열뒤집기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_24_점의위치구하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_25_배열의유사도.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_26_문자반복출력하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_27_모음제거.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_28_제곱수판별하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_29_숨어있는숫자의덧셈1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_30_n의배수고르기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_31_짝수는싫어요.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_32_가위바위보.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_33_공배수.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_35_정수부분.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_36_문자열뒤의n글자.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_37_조건에맞게수열변환하기3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers_001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers_002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers_003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers_004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.programmers_005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.연습.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/iseungmin/Desktop/Lee/programmers_coding_practice/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Lv0_33_공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_33_공배수" />
+>>>>>>> 8626e89bcaf1a59a40266cd75f3ff50cc2f1717e
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
