@@ -2,7 +2,8 @@ package lsm.level0;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-/* 잘 이해가 가지 않아서 다시 풀어봐야할거같다*/
+/* 잘 이해가 가지 않아서 다시 풀어봐야할거같다
+* 질문*/
 public class Lv0_30_n의배수고르기 {
     public static void main(String[] args) {
         int n = 3;
