@@ -1,6 +1,7 @@
 package lch.lv1;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -13,14 +14,20 @@ public class 가장많이받은선물 {
     }
 
     private static int solution(String[] friends, String[] gifts) {
+
+        // 누가 누구에게 몇번의 선물을 주었는지 이중 해시맵
         HashMap<String,HashMap<String,Integer>> giftMap = new HashMap<>();
-        HashMap<String,Integer> giveMap = new HashMap<>();
-        HashMap<String,Integer> receiveMap = new HashMap<>();
+
+        // 준 선물 수 - 받은 선물 수 = 선물지수
+        HashMap<String,Integer> giftScore = new HashMap<>();
+
+
+        HashMap<String,Integer> nextMonthGift = new HashMap<>();
 
         for (String friend : friends) {
             giftMap.put(friend,new HashMap<>());
-            giveMap.put(friend,0);
-            receiveMap.put(friend,0);
+            giftScore.put(friend,0);
+            nextMonthGift.put(friend,0);
         }
 
         for (String gift : gifts) {
@@ -28,25 +35,27 @@ public class 가장많이받은선물 {
             String giver = parts[0];
             String receiver = parts[1];
             giftMap.get(giver).put(receiver,giftMap.get(giver).getOrDefault(receiver,0) + 1);
-            giveMap.put(giver,giveMap.get(giver) + 1);
-            receiveMap.put(receiver,receiveMap.get(receiver)+1);
+            giftScore.put(giver,giftScore.get(giver)+1);
+            giftScore.put(receiver, giftScore.get(receiver)-1);
         }
 
-        System.out.println("giftMap = " + giftMap);
+        System.out.println("giftScore = " + giftScore);
 
         for (String giver : friends) {
             for (String receiver : friends) {
                 if(!giver.equals(receiver)){
-                    int gift = giftMap.get(giver).getOrDefault(receiver, 0);
-                    int receive = giftMap.get(receiver).getOrDefault(giver, 0);
-
-                    System.out.println("gift = " + gift);
-                    System.out.println(receive);
+                    int gift = giftMap.get(giver).getOrDefault(receiver,0);
+                    int receive = giftMap.get(receiver).getOrDefault(giver,0);
+                    if(gift>receive){
+                        nextMonthGift.put(giver, nextMonthGift.get(giver)+1);
+                    }
+                    else if (gift == receive && giftScore.get(giver) > giftScore.get(receiver)){
+                        nextMonthGift.put(giver, nextMonthGift.get(giver)+1);
+                    }
                 }
             }
             System.out.println();
         }
-
-        return 0;
+        return Collections.max(nextMonthGift.values());
     }
 }
