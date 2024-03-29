@@ -1,5 +1,8 @@
 package lsm.level0;
-
+/*
+* 대문자 -> 소문자 = isUpperCase -> toLowerCase
+* 소문자 -> 대문자 = isLowerCase -> toUpperCase
+* StringBuilder 에 추가하는 것은 append 로 추가*/
 public class Lv0_45_대문자와소문자 {
     public static void main(String[] args) {
         String my_string = "anDEndedD";
