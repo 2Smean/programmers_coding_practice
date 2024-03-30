@@ -70,6 +70,9 @@
     "Application.Lv0_45_대문자와소문자.executor": "Run",
     "Application.Lv0_46_이어붙인수.executor": "Run",
     "Application.Lv0_47_소문자로바꾸기.executor": "Run",
+    "Application.Lv0_48_카운트업.executor": "Run",
+    "Application.Lv0_49_문자열로반환.executor": "Run",
+    "Application.Lv0_50_글자이어붙문자열만들기.executor": "Run",
     "Application.getOrDefault2.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
@@ -92,46 +95,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_47_소문자로바꾸기">
-    <configuration name="Lv0_44_문자열붙여서출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_44_문자열붙여서출력하기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_45_대문자와소문자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_45_대문자와소문자" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_46_이어붙인수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_46_이어붙인수" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv0_51_문자열정수의합">
     <configuration name="Lv0_47_소문자로바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_47_소문자로바꾸기" />
       <module name="programmers_coding_practice" />
@@ -145,12 +109,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getOrDefault2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lch.study.getOrDefault2" />
+    <configuration name="Lv0_48_카운트업" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_48_카운트업" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lch.study.*" />
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_49_문자열로반환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_49_문자열로반환" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_50_글자이어붙문자열만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_50_글자이어붙문자열만들기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_51_문자열정수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_51_문자열정수의합" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_51_문자열정수의합" />
+        <item itemvalue="Application.Lv0_50_글자이어붙문자열만들기" />
+        <item itemvalue="Application.Lv0_49_문자열로반환" />
+        <item itemvalue="Application.Lv0_48_카운트업" />
         <item itemvalue="Application.Lv0_47_소문자로바꾸기" />
-        <item itemvalue="Application.Lv0_46_이어붙인수" />
-        <item itemvalue="Application.getOrDefault2" />
-        <item itemvalue="Application.Lv0_45_대문자와소문자" />
-        <item itemvalue="Application.Lv0_44_문자열붙여서출력하기" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +191,7 @@
       <workItem from="1710578064079" duration="34930000" />
       <workItem from="1711350165263" duration="101000" />
       <workItem from="1711372256847" duration="16083000" />
+      <workItem from="1711781583267" duration="2601000" />
     </task>
     <servers />
   </component>
