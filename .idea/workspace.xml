@@ -75,6 +75,12 @@
     "Application.Lv0_50_글자이어붙문자열만들기.executor": "Run",
     "Application.Lv0_51_문자열정수의합.executor": "Run",
     "Application.Lv0_52_조건에맞게수열변경하기1.executor": "Run",
+    "Application.Lv0_53_n번째원소까지.executor": "Run",
+    "Application.Lv0_54_뒤에서5등까지.executor": "Run",
+    "Application.Lv0_55_카운트다운.executor": "Run",
+    "Application.Lv0_56_길이에따른연산.executor": "Run",
+    "Application.Lv0_57_뒤에서5등위로.executor": "Run",
+    "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.getOrDefault2.executor": "Run",
     "Application.programmers_001.executor": "Run",
     "Application.programmers_002.executor": "Run",
@@ -97,9 +103,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_52_조건에맞게수열변경하기1">
-    <configuration name="Lv0_48_카운트업" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_48_카운트업" />
+  <component name="RunManager" selected="Application.Lv0_57_뒤에서5등위로">
+    <configuration name="Lv0_53_n번째원소까지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_53_n번째원소까지" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_49_문자열로반환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_49_문자열로반환" />
+    <configuration name="Lv0_54_뒤에서5등까지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_54_뒤에서5등까지" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_50_글자이어붙문자열만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_50_글자이어붙문자열만들기" />
+    <configuration name="Lv0_55_카운트다운" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_55_카운트다운" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_51_문자열정수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_51_문자열정수의합" />
+    <configuration name="Lv0_56_길이에따른연산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_56_길이에따른연산" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_52_조건에맞게수열변경하기1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_52_조건에맞게수열변경하기1" />
+    <configuration name="Lv0_57_뒤에서5등위로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_57_뒤에서5등위로" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_52_조건에맞게수열변경하기1" />
-        <item itemvalue="Application.Lv0_51_문자열정수의합" />
-        <item itemvalue="Application.Lv0_50_글자이어붙문자열만들기" />
-        <item itemvalue="Application.Lv0_49_문자열로반환" />
-        <item itemvalue="Application.Lv0_48_카운트업" />
+        <item itemvalue="Application.Lv0_57_뒤에서5등위로" />
+        <item itemvalue="Application.Lv0_56_길이에따른연산" />
+        <item itemvalue="Application.Lv0_55_카운트다운" />
+        <item itemvalue="Application.Lv0_54_뒤에서5등까지" />
+        <item itemvalue="Application.Lv0_53_n번째원소까지" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +199,7 @@
       <workItem from="1710578064079" duration="34930000" />
       <workItem from="1711350165263" duration="101000" />
       <workItem from="1711372256847" duration="16083000" />
-      <workItem from="1711781583267" duration="4378000" />
+      <workItem from="1711781583267" duration="9417000" />
     </task>
     <servers />
   </component>
