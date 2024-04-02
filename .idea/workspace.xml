@@ -84,6 +84,7 @@
     "Application.Lv0_59_홀짝에따라다른값반환하기.executor": "Run",
     "Application.Lv0_60_배열에서문자열대소문자변환하기.executor": "Run",
     "Application.Lv0_61_공백으로구분하기1.executor": "Run",
+    "Application.Lv0_62_문자열곱하기.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.getOrDefault2.executor": "Run",
     "Application.programmers_001.executor": "Run",
@@ -91,6 +92,7 @@
     "Application.programmers_003.executor": "Run",
     "Application.programmers_004.executor": "Run",
     "Application.programmers_005.executor": "Run",
+    "Application.starr.executor": "Run",
     "Application.연습.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,33 +109,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_61_공백으로구분하기1">
-    <configuration name="Lv0_57_뒤에서5등위로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_57_뒤에서5등위로" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_58_5명씩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_58_5명씩" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv0_62_문자열곱하기">
     <configuration name="Lv0_59_홀짝에따라다른값반환하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_59_홀짝에따라다른값반환하기" />
       <module name="programmers_coding_practice" />
@@ -173,13 +149,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_62_문자열곱하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_62_문자열곱하기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="starr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.starr" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_62_문자열곱하기" />
+        <item itemvalue="Application.starr" />
         <item itemvalue="Application.Lv0_61_공백으로구분하기1" />
         <item itemvalue="Application.Lv0_60_배열에서문자열대소문자변환하기" />
         <item itemvalue="Application.Lv0_59_홀짝에따라다른값반환하기" />
-        <item itemvalue="Application.Lv0_58_5명씩" />
-        <item itemvalue="Application.Lv0_57_뒤에서5등위로" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +206,7 @@
       <workItem from="1711350165263" duration="101000" />
       <workItem from="1711372256847" duration="16083000" />
       <workItem from="1711781583267" duration="11369000" />
-      <workItem from="1711883513167" duration="5399000" />
+      <workItem from="1711883513167" duration="8868000" />
     </task>
     <servers />
   </component>
