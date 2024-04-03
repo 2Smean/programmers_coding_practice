@@ -9,11 +9,10 @@ public class Lv0_68_A강조하기 {
         StringBuilder answer = new StringBuilder();
 
         for(int i=0;i<str.length();i++){
+            str = str.toLowerCase();
             char ch = str.charAt(i);
             if(ch == 'a'){
                 answer.append('A');
-            }else if(Character.isUpperCase(ch)){
-                answer.append(Character.toLowerCase(ch));
             }else{
                 answer.append(ch);
             }
