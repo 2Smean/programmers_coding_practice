@@ -86,7 +86,12 @@
     "Application.Lv0_61_공백으로구분하기1.executor": "Run",
     "Application.Lv0_62_문자열곱하기.executor": "Run",
     "Application.Lv0_63_접미사인지확인하기.executor": "Run",
+    "Application.Lv0_66_두연산비교하기.executor": "Run",
+    "Application.Lv0_67_더크게합치기.executor": "Run",
+    "Application.Lv0_68_A강조하기.executor": "Run",
+    "Application.Lv0_배열만들기1.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.getOrDefault.executor": "Run",
     "Application.getOrDefault2.executor": "Run",
     "Application.programmers_001.executor": "Run",
@@ -112,9 +117,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_63_접미사인지확인하기">
-    <configuration name="Lv0_61_공백으로구분하기1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_61_공백으로구분하기1" />
+  <component name="RunManager" selected="Application.Lv0_68_A강조하기">
+    <configuration name="Lv0_60_배열에서문자열대소문자변환하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_60_배열에서문자열대소문자변환하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_62_문자열곱하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_62_문자열곱하기" />
+    <configuration name="Lv0_66_두연산비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_66_두연산비교하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_63_접미사인지확인하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_63_접미사인지확인하기" />
+    <configuration name="Lv0_67_더크게합치기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_67_더크게합치기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -152,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getOrDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lch.study.getOrDefault" />
+    <configuration name="Lv0_68_A강조하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_68_A강조하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lch.study.*" />
+          <option name="PATTERN" value="lsm.level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="starr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.starr" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.test.Test" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="PATTERN" value="lsm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_63_접미사인지확인하기" />
-        <item itemvalue="Application.getOrDefault" />
-        <item itemvalue="Application.Lv0_62_문자열곱하기" />
-        <item itemvalue="Application.starr" />
-        <item itemvalue="Application.Lv0_61_공백으로구분하기1" />
+        <item itemvalue="Application.Lv0_68_A강조하기" />
+        <item itemvalue="Application.Lv0_60_배열에서문자열대소문자변환하기" />
+        <item itemvalue="Application.Lv0_67_더크게합치기" />
+        <item itemvalue="Application.Lv0_66_두연산비교하기" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +216,7 @@
       <workItem from="1711781583267" duration="11369000" />
       <workItem from="1711883513167" duration="9902000" />
       <workItem from="1712045986678" duration="1183000" />
-      <workItem from="1712112783763" duration="1651000" />
+      <workItem from="1712112783763" duration="6925000" />
     </task>
     <servers />
   </component>
