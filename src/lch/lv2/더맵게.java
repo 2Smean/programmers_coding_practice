@@ -11,6 +11,7 @@ public class 더맵게 {
     }
 
     private static int solution(int[] scoville, int k) {
+
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         for (int scoop : scoville) {
             pq.add(scoop);
@@ -19,14 +20,20 @@ public class 더맵게 {
         int ans = 0;
 
         while (true){
+
             if(pq.peek() >= k) {
                 return ans;
             }
             else {
-                int firstNum = pq.poll();
-                int secondNum = pq.poll();
-                pq.add(firstNum +(secondNum * 2));
-                ans++;
+                if(pq.size() < 2){
+                    return 1;
+                }
+                else {
+                    int firstNum = pq.poll();
+                    int secondNum = pq.poll();
+                    pq.add(firstNum + (secondNum * 2));
+                    ans++;
+                }
             }
         }
 
