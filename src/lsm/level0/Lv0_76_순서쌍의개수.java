@@ -1,6 +1,6 @@
 package lsm.level0;
 
-public class Lv0_76_순서쌍의수 {
+public class Lv0_76_순서쌍의개수 {
     public static void main(String[] args) {
 
     }
