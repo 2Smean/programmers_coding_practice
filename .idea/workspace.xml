@@ -101,6 +101,12 @@
     "Application.Lv0_79_문자열정렬하기1.executor": "Run",
     "Application.Lv0_80_최댓값만들기2.executor": "Run",
     "Application.Lv0_81_인덱스바꾸기.executor": "Run",
+    "Application.Lv0_82_가장큰수찾기.executor": "Run",
+    "Application.Lv0_83_주사위게임1.executor": "Run",
+    "Application.Lv0_84_꼬리문자열.executor": "Run",
+    "Application.Lv0_85_부분문자열인지확인하기.executor": "Run",
+    "Application.Lv0_86_부분문자열.executor": "Run",
+    "Application.Lv0_87_배열의원소삭제하기.executor": "Run",
     "Application.Lv0_배열만들기1.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Test.executor": "Run",
@@ -129,9 +135,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_81_인덱스바꾸기">
-    <configuration name="Lv0_77_개미군단" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_77_개미군단" />
+  <component name="RunManager" selected="Application.Lv0_87_배열의원소삭제하기">
+    <configuration name="Lv0_83_주사위게임1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_83_주사위게임1" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_78_주사위의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_78_주사위의개수" />
+    <configuration name="Lv0_84_꼬리문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_84_꼬리문자열" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_79_문자열정렬하기1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_79_문자열정렬하기1" />
+    <configuration name="Lv0_85_부분문자열인지확인하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_85_부분문자열인지확인하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_80_최댓값만들기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_80_최댓값만들기2" />
+    <configuration name="Lv0_86_부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_86_부분문자열" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -182,8 +188,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_81_인덱스바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_81_인덱스바꾸기" />
+    <configuration name="Lv0_87_배열의원소삭제하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_87_배열의원소삭제하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -197,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_81_인덱스바꾸기" />
-        <item itemvalue="Application.Lv0_80_최댓값만들기2" />
-        <item itemvalue="Application.Lv0_79_문자열정렬하기1" />
-        <item itemvalue="Application.Lv0_78_주사위의개수" />
-        <item itemvalue="Application.Lv0_77_개미군단" />
+        <item itemvalue="Application.Lv0_87_배열의원소삭제하기" />
+        <item itemvalue="Application.Lv0_86_부분문자열" />
+        <item itemvalue="Application.Lv0_85_부분문자열인지확인하기" />
+        <item itemvalue="Application.Lv0_84_꼬리문자열" />
+        <item itemvalue="Application.Lv0_83_주사위게임1" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +236,7 @@
       <workItem from="1712045986678" duration="1183000" />
       <workItem from="1712112783763" duration="15497000" />
       <workItem from="1712306714849" duration="2000" />
-      <workItem from="1712309219549" duration="16519000" />
+      <workItem from="1712309219549" duration="22543000" />
     </task>
     <servers />
   </component>
