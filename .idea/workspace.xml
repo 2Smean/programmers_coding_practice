@@ -108,6 +108,8 @@
     "Application.Lv0_86_부분문자열.executor": "Run",
     "Application.Lv0_87_배열의원소삭제하기.executor": "Run",
     "Application.Lv0_88_0떼기.executor": "Run",
+    "Application.Lv0_90_문자열바꿔서찾기.executor": "Run",
+    "Application.Lv0_91_ad제거하기.executor": "Run",
     "Application.Lv0_배열만들기1.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Test.executor": "Run",
@@ -136,46 +138,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_88_0떼기">
-    <configuration name="Lv0_84_꼬리문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_84_꼬리문자열" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_85_부분문자열인지확인하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_85_부분문자열인지확인하기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_86_부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_86_부분문자열" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv0_91_ad제거하기">
     <configuration name="Lv0_87_배열의원소삭제하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_87_배열의원소삭제하기" />
       <module name="programmers_coding_practice" />
@@ -202,13 +165,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_90_문자열바꿔서찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_90_문자열바꿔서찾기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lv0_91_ad제거하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_91_ad제거하기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.test.Test" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_91_ad제거하기" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Lv0_90_문자열바꿔서찾기" />
         <item itemvalue="Application.Lv0_88_0떼기" />
         <item itemvalue="Application.Lv0_87_배열의원소삭제하기" />
-        <item itemvalue="Application.Lv0_86_부분문자열" />
-        <item itemvalue="Application.Lv0_85_부분문자열인지확인하기" />
-        <item itemvalue="Application.Lv0_84_꼬리문자열" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +240,7 @@
       <workItem from="1712112783763" duration="15497000" />
       <workItem from="1712306714849" duration="2000" />
       <workItem from="1712309219549" duration="23508000" />
-      <workItem from="1712907363511" duration="1602000" />
+      <workItem from="1712907363511" duration="5712000" />
     </task>
     <servers />
   </component>
