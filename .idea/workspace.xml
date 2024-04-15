@@ -40,6 +40,7 @@
     "Application.Lv0_08배열원소의길이.executor": "Run",
     "Application.Lv0_09삼각형의완성조건.executor": "Run",
     "Application.Lv0_0_34_암호해독.executor": "Run",
+    "Application.Lv0_100_홀짝구분하기.executor": "Run",
     "Application.Lv0_10짝수홀수개수.executor": "Run",
     "Application.Lv0_11_배열자르기.executor": "Run",
     "Application.Lv0_12_피자나눠먹기3.executor": "Run",
@@ -114,6 +115,9 @@
     "Application.Lv0_93_특정한문자를대문자로바꾸기.executor": "Run",
     "Application.Lv0_94_대문자로바꾸기.executor": "Run",
     "Application.Lv0_95_원하는문자열찾기.executor": "Run",
+    "Application.Lv0_96_할일목록.executor": "Run",
+    "Application.Lv0_98_순서바꾸기.executor": "Run",
+    "Application.Lv0_99_수조작하기.executor": "Run",
     "Application.Lv0_배열만들기1.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Test.executor": "Run",
@@ -142,9 +146,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_95_원하는문자열찾기">
-    <configuration name="Lv0_91_ad제거하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_91_ad제거하기" />
+  <component name="RunManager" selected="Application.Lv0_100_홀짝구분하기">
+    <configuration name="Lv0_100_홀짝구분하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_100_홀짝구분하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_92_배열의원소만큼추가하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_92_배열의원소만큼추가하기" />
+    <configuration name="Lv0_96_할일목록" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_96_할일목록" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -169,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_93_특정한문자를대문자로바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_93_특정한문자를대문자로바꾸기" />
+    <configuration name="Lv0_98_순서바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_98_순서바꾸기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -182,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_94_대문자로바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_94_대문자로바꾸기" />
+    <configuration name="Lv0_99_수조작하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_99_수조작하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -195,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_95_원하는문자열찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_95_원하는문자열찾기" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.test.Test" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="PATTERN" value="lsm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_95_원하는문자열찾기" />
-        <item itemvalue="Application.Lv0_94_대문자로바꾸기" />
-        <item itemvalue="Application.Lv0_93_특정한문자를대문자로바꾸기" />
-        <item itemvalue="Application.Lv0_92_배열의원소만큼추가하기" />
-        <item itemvalue="Application.Lv0_91_ad제거하기" />
+        <item itemvalue="Application.Lv0_100_홀짝구분하기" />
+        <item itemvalue="Application.Lv0_99_수조작하기" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Lv0_98_순서바꾸기" />
+        <item itemvalue="Application.Lv0_96_할일목록" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +248,7 @@
       <workItem from="1712112783763" duration="15497000" />
       <workItem from="1712306714849" duration="2000" />
       <workItem from="1712309219549" duration="23508000" />
-      <workItem from="1712907363511" duration="11079000" />
+      <workItem from="1712907363511" duration="17705000" />
     </task>
     <servers />
   </component>
