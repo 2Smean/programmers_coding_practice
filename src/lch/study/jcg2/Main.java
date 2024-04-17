@@ -5,6 +5,6 @@ public class Main {
 
         Parent object = new Child();
 
-        System.out.println(object.getX());
+//        System.out.println(object.getX());
     }
 }
