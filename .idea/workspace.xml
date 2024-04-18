@@ -45,6 +45,7 @@
     "Application.Lv0_102_콜라츠수열만들기.executor": "Run",
     "Application.Lv0_103_배열회전시키기.executor": "Run",
     "Application.Lv0_103_외계행성의나이.executor": "Run",
+    "Application.Lv0_104_약수구하기.executor": "Run",
     "Application.Lv0_10짝수홀수개수.executor": "Run",
     "Application.Lv0_11_배열자르기.executor": "Run",
     "Application.Lv0_12_피자나눠먹기3.executor": "Run",
@@ -150,7 +151,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_103_배열회전시키기">
+  <component name="RunManager" selected="Application.Lv0_104_약수구하기">
     <configuration name="Lv0_100_홀짝구분하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_100_홀짝구분하기" />
       <module name="programmers_coding_practice" />
@@ -203,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_99_수조작하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_99_수조작하기" />
+    <configuration name="Lv0_104_약수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_104_약수구하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -218,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_104_약수구하기" />
         <item itemvalue="Application.Lv0_103_배열회전시키기" />
         <item itemvalue="Application.Lv0_102_콜라츠수열만들기" />
         <item itemvalue="Application.Lv0_101_직각삼각형출력하기" />
         <item itemvalue="Application.Lv0_100_홀짝구분하기" />
-        <item itemvalue="Application.Lv0_99_수조작하기" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +253,7 @@
       <workItem from="1712112783763" duration="15497000" />
       <workItem from="1712306714849" duration="2000" />
       <workItem from="1712309219549" duration="23508000" />
-      <workItem from="1712907363511" duration="25055000" />
+      <workItem from="1712907363511" duration="25718000" />
     </task>
     <servers />
   </component>
