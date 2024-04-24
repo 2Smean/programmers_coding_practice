@@ -155,7 +155,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_109_369게임">
+  <component name="RunManager" selected="Application.Lv0_108_i로만들기">
     <configuration name="Lv0_104_약수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_104_약수구하기" />
       <module name="programmers_coding_practice" />
@@ -182,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_106_문자열정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_106_문자열정렬하기" />
+    <configuration name="Lv0_106_문자열정렬하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_106_문자열정렬하기2" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -223,9 +223,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_109_369게임" />
         <item itemvalue="Application.Lv0_108_i로만들기" />
-        <item itemvalue="Application.Lv0_106_문자열정렬하기" />
+        <item itemvalue="Application.Lv0_109_369게임" />
+        <item itemvalue="Application.Lv0_106_문자열정렬하기2" />
         <item itemvalue="Application.Lv0_105_숫자찾기" />
         <item itemvalue="Application.Lv0_104_약수구하기" />
       </list>
@@ -258,7 +258,7 @@
       <workItem from="1712306714849" duration="2000" />
       <workItem from="1712309219549" duration="23508000" />
       <workItem from="1712907363511" duration="35063000" />
-      <workItem from="1713623061123" duration="2195000" />
+      <workItem from="1713623061123" duration="4401000" />
     </task>
     <servers />
   </component>

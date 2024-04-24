@@ -1,10 +1,8 @@
 package lsm.level0;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
-public class Lv0_106_문자열정렬하기 {
+public class Lv0_106_문자열정렬하기2 {
     public static void main(String[] args) {
         String str = "BcAdd";
         System.out.println(solution(str));

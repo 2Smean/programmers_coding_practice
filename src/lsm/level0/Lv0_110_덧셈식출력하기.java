@@ -10,6 +10,6 @@ public class Lv0_110_덧셈식출력하기 {
 
         int c = a + b;
 
-        System.out.println(a + " + " + b + " = " + c);
+        System.out.println(a + " + " + b + "= " + c);
     }
 }

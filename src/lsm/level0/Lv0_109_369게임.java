@@ -7,15 +7,15 @@ public class Lv0_109_369게임 {
     }
     private static int solution(int order) {
         String orderString = String.valueOf(order);
-        int clapCount = 0;
 
-        for (int i = 0; i < orderString.length(); i++) {
-            char digit = orderString.charAt(i);
-            if (digit == '3' || digit == '6' || digit == '9') {
-                clapCount++;
+        int answer = 0;
+
+        for(int i=0;i<orderString.length();i++){
+            char ch = orderString.charAt(i);
+            if(ch == '3' || ch == '6' || ch == '9'){
+                answer++;
             }
         }
-
-        return clapCount;
+        return answer;
     }
 }
