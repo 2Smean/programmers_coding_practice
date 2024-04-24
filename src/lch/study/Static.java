@@ -1,6 +1,6 @@
 package lch.study;
 
 class Static {
-    public int a = 20;
-    static int b = 0;
+    private int a = 20;
+    private int b = 0;
 }

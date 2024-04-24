@@ -13,20 +13,12 @@ public class 돌의무게 {
         int answer = 0;
         double start = w * f;
 
-        while (true){
-            if(start<2) break;
+        while (true) {
+            if (start < 2) break;
             start = start / 3.0;
             answer++;
+
         }
-
-        String.valueOf()
-
-
-
-
-
-
-
         return answer;
     }
 }
