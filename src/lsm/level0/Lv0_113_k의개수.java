@@ -8,16 +8,17 @@ public class Lv0_113_k의개수 {
         System.out.println(solution(i,j,k));
     }
     private static int solution(int i, int j, int k) {
-        int count = 0;
-        for (int n = i; n <= j; n++) {
+        int answer = 0;
 
-            String numberString = String.valueOf(n);
-            for (char digit : numberString.toCharArray()) {
-                if (digit - '0' == k) {
-                    count++;
+        for(int n=i;n<=j;n++){
+            String strN = String.valueOf(n);
+            for(int idx=0;idx<strN.length();idx++){
+                char ch = strN.charAt(idx);
+                if(ch == (char)(k + '0')){
+                    answer++;
                 }
             }
         }
-        return count;
+        return answer;
     }
 }
