@@ -5,8 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad26399b-0add-492e-88da-2c1fa0bded00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lch/jordy/priorityQueue/디펜스게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lch/jordy/priorityQueue/최소힙.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lch/lv1/가장많이받은선물.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lch/lv1/가장많이받은선물.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/kongQuestion/돌댕이2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/kongQuestion/돌의무게.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/kongQuestion/선반의길이.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/kongQuestion/전압량.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Ex07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Example01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Static.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/StringEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/extendsEx/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/extendsEx/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/extendsEx/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/getOrDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/getOrDefault2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg2/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg2/Ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg2/Ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg2/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg3/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg3/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg4/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg4/Ex08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg4/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg4/Static.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg5/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/jcg5/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/기출문제/ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/기출문제/ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/기출문제/ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/기출문제/ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lch/study/분자분모.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +195,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -160,7 +208,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_115_문자열섞기">
+  <component name="RunManager">
     <configuration name="Lv0_111_문자리스트를문자열로변환하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_111_문자리스트를문자열로변환하기" />
       <module name="programmers_coding_practice" />
@@ -265,6 +313,7 @@
       <workItem from="1712907363511" duration="35063000" />
       <workItem from="1713623061123" duration="8351000" />
       <workItem from="1714275094513" duration="4997000" />
+      <workItem from="1714814056015" duration="1634000" />
     </task>
     <servers />
   </component>
