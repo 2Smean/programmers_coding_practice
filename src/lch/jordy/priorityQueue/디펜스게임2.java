@@ -3,7 +3,7 @@ package lch.jordy.priorityQueue;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class 디펜스게임 {
+public class 디펜스게임2 {
     public static void main(String[] args) {
         int n = 7;
         int k = 3;
@@ -15,17 +15,20 @@ public class 디펜스게임 {
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
         int answer = 0;
-
-        for (int e : enemy) {
-            pq.add(e);
-            if(k>0 && n < e){
-                n += pq.poll();
-                k--;
+        for(int i = 0; i<enemy.length; i++){
+            System.out.println("n = " + n);
+            pq.add(enemy[i]);
+            if(n>= enemy[i]){
+                n-=enemy[i];
             }
-            n-=e;
-            if(n<0){
+            else {
+                if(k>0){
+                    n += pq.poll();
+                    k--;
+                }
+            }
+            if(n<0)
                 break;
-            }
             answer++;
         }
 
