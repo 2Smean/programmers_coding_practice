@@ -82,6 +82,9 @@
     "Application.Lv0_122_날짜비교하기.executor": "Run",
     "Application.Lv0_123_글자지우기.executor": "Run",
     "Application.Lv0_124_문자열뒤집기.executor": "Run",
+    "Application.Lv0_125_숨어있는숫자의덧셈2.executor": "Run",
+    "Application.Lv0_125_한번만등장한문자.executor": "Debug",
+    "Application.Lv0_126_1로만들기.executor": "Run",
     "Application.Lv0_12_피자나눠먹기3.executor": "Run",
     "Application.Lv0_13_특정문자제거하기.executor": "Run",
     "Application.Lv0_14_문자열안에문자열.executor": "Run",
@@ -187,13 +190,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/iseungmin/Desktop/Lee/programmers_coding_practice/src/Main.java",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_124_문자열뒤집기">
-    <configuration name="Lv0_120_세로읽기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_120_세로읽기" />
+  <component name="RunManager" selected="Application.Lv0_126_1로만들기">
+    <configuration name="Lv0_125_한번만등장한문자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_한번만등장한문자" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -205,8 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_121_중복된문자제거" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_121_중복된문자제거" />
+    <configuration name="Lv0_125_숨어있는숫자의덧셈2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_숨어있는숫자의덧셈2" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +221,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_122_날짜비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_122_날짜비교하기" />
+    <configuration name="Lv0_126_1로만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_126_1로만들기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -231,8 +234,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_123_글자지우기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_123_글자지우기" />
+    <configuration name="Lv0_48_카운트업" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_48_카운트업" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -244,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_124_문자열뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_124_문자열뒤집기" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.test.Test" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="PATTERN" value="lsm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,22 +262,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lv0_124_문자열뒤집기" />
-        <item itemvalue="Application.Lv0_123_글자지우기" />
-        <item itemvalue="Application.Lv0_122_날짜비교하기" />
-        <item itemvalue="Application.Lv0_121_중복된문자제거" />
-        <item itemvalue="Application.Lv0_120_세로읽기" />
+        <item itemvalue="Application.Lv0_126_1로만들기" />
+        <item itemvalue="Application.Lv0_48_카운트업" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Lv0_125_한번만등장한문자" />
+        <item itemvalue="Application.Lv0_125_숨어있는숫자의덧셈2" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-2383794a" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ad26399b-0add-492e-88da-2c1fa0bded00" name="Changes" comment="" />
@@ -299,7 +298,14 @@
       <workItem from="1714814056015" duration="1634000" />
       <workItem from="1715246391458" duration="617000" />
       <workItem from="1716256203737" duration="10337000" />
-      <workItem from="1716954103957" duration="12539000" />
+      <workItem from="1716954103957" duration="17295000" />
+      <workItem from="1717387304037" duration="1618000" />
+      <workItem from="1717398569826" duration="490000" />
+      <workItem from="1717486182692" duration="54000" />
+      <workItem from="1717490629657" duration="58000" />
+      <workItem from="1717907932376" duration="141000" />
+      <workItem from="1717909404818" duration="1097000" />
+      <workItem from="1717918849674" duration="2250000" />
     </task>
     <servers />
   </component>

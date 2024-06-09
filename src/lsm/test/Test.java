@@ -6,7 +6,13 @@ import java.util.List;
 
 public class Test {
     public static void main(String[] args) {
-        int[][] list = {{1, 2, 3}, {4, 5, 6}};
-        System.out.println(list[0][2]);
+        StringBuilder sb = new StringBuilder("java");
+        sb.setLength(0);
+        sb.append("hello");
+        sb.replace(1, 4, "ooo");
+        sb.reverse();
+        sb.insert(2, "()");
+        sb.append("hi");
+        System.out.println(sb);
     }
 }
