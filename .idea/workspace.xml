@@ -85,6 +85,7 @@
     "Application.Lv0_125_숨어있는숫자의덧셈2.executor": "Run",
     "Application.Lv0_125_한번만등장한문자.executor": "Debug",
     "Application.Lv0_126_1로만들기.executor": "Run",
+    "Application.Lv0_127_세개의구분자.executor": "Run",
     "Application.Lv0_12_피자나눠먹기3.executor": "Run",
     "Application.Lv0_13_특정문자제거하기.executor": "Run",
     "Application.Lv0_14_문자열안에문자열.executor": "Run",
@@ -194,7 +195,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_126_1로만들기">
+  <component name="RunManager" selected="Application.Lv0_127_세개의구분자">
     <configuration name="Lv0_125_한번만등장한문자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_한번만등장한문자" />
       <module name="programmers_coding_practice" />
@@ -208,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_125_숨어있는숫자의덧셈2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_숨어있는숫자의덧셈2" />
+    <configuration name="Lv0_126_1로만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_126_1로만들기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -221,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_126_1로만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_126_1로만들기" />
+    <configuration name="Lv0_127_세개의구분자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_127_세개의구분자" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -262,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_127_세개의구분자" />
         <item itemvalue="Application.Lv0_126_1로만들기" />
         <item itemvalue="Application.Lv0_48_카운트업" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Lv0_125_한번만등장한문자" />
-        <item itemvalue="Application.Lv0_125_숨어있는숫자의덧셈2" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +306,10 @@
       <workItem from="1717490629657" duration="58000" />
       <workItem from="1717907932376" duration="141000" />
       <workItem from="1717909404818" duration="1097000" />
-      <workItem from="1717918849674" duration="2250000" />
+      <workItem from="1717918849674" duration="2374000" />
+      <workItem from="1717926869472" duration="599000" />
+      <workItem from="1718003165076" duration="1000" />
+      <workItem from="1718089813306" duration="3747000" />
     </task>
     <servers />
   </component>
