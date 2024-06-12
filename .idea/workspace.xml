@@ -82,6 +82,7 @@
     "Application.Lv0_122_날짜비교하기.executor": "Run",
     "Application.Lv0_123_글자지우기.executor": "Run",
     "Application.Lv0_124_문자열뒤집기.executor": "Run",
+    "Application.Lv0_125_7의개수.executor": "Run",
     "Application.Lv0_125_숨어있는숫자의덧셈2.executor": "Run",
     "Application.Lv0_125_한번만등장한문자.executor": "Debug",
     "Application.Lv0_126_1로만들기.executor": "Run",
@@ -195,9 +196,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_127_세개의구분자">
-    <configuration name="Lv0_125_한번만등장한문자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_한번만등장한문자" />
+  <component name="RunManager" selected="Application.Lv0_125_7의개수">
+    <configuration name="Lv0_125_7의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_7의개수" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -263,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_125_7의개수" />
         <item itemvalue="Application.Lv0_127_세개의구분자" />
         <item itemvalue="Application.Lv0_126_1로만들기" />
         <item itemvalue="Application.Lv0_48_카운트업" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Lv0_125_한번만등장한문자" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +310,8 @@
       <workItem from="1717918849674" duration="2374000" />
       <workItem from="1717926869472" duration="599000" />
       <workItem from="1718003165076" duration="1000" />
-      <workItem from="1718089813306" duration="3747000" />
+      <workItem from="1718089813306" duration="4592000" />
+      <workItem from="1718181888833" duration="1333000" />
     </task>
     <servers />
   </component>
