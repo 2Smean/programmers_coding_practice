@@ -82,11 +82,12 @@
     "Application.Lv0_122_날짜비교하기.executor": "Run",
     "Application.Lv0_123_글자지우기.executor": "Run",
     "Application.Lv0_124_문자열뒤집기.executor": "Run",
-    "Application.Lv0_125_7의개수.executor": "Run",
+    "Application.Lv0_125_7의개수.executor": "Debug",
     "Application.Lv0_125_숨어있는숫자의덧셈2.executor": "Run",
     "Application.Lv0_125_한번만등장한문자.executor": "Debug",
     "Application.Lv0_126_1로만들기.executor": "Run",
     "Application.Lv0_127_세개의구분자.executor": "Run",
+    "Application.Lv0_128_문자열반복해서출력하기.executor": "Run",
     "Application.Lv0_12_피자나눠먹기3.executor": "Run",
     "Application.Lv0_13_특정문자제거하기.executor": "Run",
     "Application.Lv0_14_문자열안에문자열.executor": "Run",
@@ -192,11 +193,14 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/iseungmin/Desktop/Lee/programmers_coding_practice/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.34982333",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_125_7의개수">
+  <component name="RunManager" selected="Application.Lv0_129_특수문자출력하기">
     <configuration name="Lv0_125_7의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_125_7의개수" />
       <module name="programmers_coding_practice" />
@@ -236,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv0_48_카운트업" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_48_카운트업" />
+    <configuration name="Lv0_128_문자열반복해서출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_128_문자열반복해서출력하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -249,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.test.Test" />
+    <configuration name="Lv0_129_특수문자출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_129_특수문자출력하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lsm.test.*" />
+          <option name="PATTERN" value="lsm.level0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_129_특수문자출력하기" />
+        <item itemvalue="Application.Lv0_128_문자열반복해서출력하기" />
         <item itemvalue="Application.Lv0_125_7의개수" />
         <item itemvalue="Application.Lv0_127_세개의구분자" />
         <item itemvalue="Application.Lv0_126_1로만들기" />
-        <item itemvalue="Application.Lv0_48_카운트업" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +315,7 @@
       <workItem from="1717926869472" duration="599000" />
       <workItem from="1718003165076" duration="1000" />
       <workItem from="1718089813306" duration="4592000" />
-      <workItem from="1718181888833" duration="1333000" />
+      <workItem from="1718181888833" duration="10189000" />
     </task>
     <servers />
   </component>
