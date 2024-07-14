@@ -5,6 +5,7 @@ public class 소수만들기 {
     private static int cnt;
     public static void main(String[] args) {
         int[] nums = {1,2,3,4};
+
         System.out.println(solution(nums));
     }
 
