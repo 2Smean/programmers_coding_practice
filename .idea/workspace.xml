@@ -204,22 +204,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lv0_132_한번만등장한문자">
     <configuration name="Lv0_127_세개의구분자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_127_세개의구분자" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lv0_128_문자열반복해서출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_128_문자열반복해서출력하기" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
@@ -270,13 +257,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_132_한번만등장한문자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_132_한번만등장한문자" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_132_한번만등장한문자" />
         <item itemvalue="Application.Lv0_131_잘라서배열로저장하기" />
         <item itemvalue="Application.Lv0_127_세개의구분자" />
         <item itemvalue="Application.Lv0_130_커피심부름" />
         <item itemvalue="Application.Lv0_129_특수문자출력하기" />
-        <item itemvalue="Application.Lv0_128_문자열반복해서출력하기" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +321,7 @@
       <workItem from="1718089813306" duration="4592000" />
       <workItem from="1718181888833" duration="10754000" />
       <workItem from="1718549678105" duration="714000" />
-      <workItem from="1718720760330" duration="3040000" />
+      <workItem from="1718720760330" duration="3702000" />
     </task>
     <servers />
   </component>
