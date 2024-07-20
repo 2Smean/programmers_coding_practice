@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad26399b-0add-492e-88da-2c1fa0bded00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lch/BOJ/dfs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lch/BOJ/dfs/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lch/BOJ/dfs/sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lch/kongTest/ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lch/kongTest/소수만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lch/kongTest/소수만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,179 +42,168 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lv0_01_양꼬치.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_01양꼬치.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_06아이스아메리카노.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_07배열두배만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_08배열원소의길이.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_09삼각형의완성조건.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_0_34_암호해독.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_100_홀짝구분하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_101_직각삼각형출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_102_콜라츠수열만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_103_배열회전시키기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_103_외계행성의나이.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_104_약수구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_105_숫자찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_106_문자열정렬하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_108_i로만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_109_369게임.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_10짝수홀수개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_111_문자리스트를문자열로변환하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_112_팩토리얼.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_113_k의개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_114_A로B만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_115_문자열섞기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_116_간단한식계산하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_117_주사위게임2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_118_문자열돌리기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_119_가까운1찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_11_배열자르기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_120_세로읽기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_121_중복된문자제거.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_122_날짜비교하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_123_글자지우기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_124_문자열뒤집기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_125_7의개수.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lv0_125_숨어있는숫자의덧셈2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_125_한번만등장한문자.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lv0_126_1로만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_127_세개의구분자.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_128_문자열반복해서출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_129_특수문자출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_12_피자나눠먹기3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_130_커피심부름.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lv0_131_잘라서배열로저장하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_132_한번만등장한문자.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_133_a와b출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_135_문자열겹쳐쓰기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_13_특정문자제거하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_14_문자열안에문자열.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_15_각도기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_16_피자나눠먹기1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_17_최댓값만들기1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_18_자릿수더하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_20_중앙값구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_21_짝수의합.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_22_배열의평균값.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_23_배열뒤집기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_24_점의위치구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_25_배열의유사도.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_26_문자반복출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_27_모음제거.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_28_제곱수판별하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_29_숨어있는숫자의덧셈1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_30_n의배수고르기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_31_짝수는싫어요.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_32_가위바위보.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_33_공배수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_35_정수부분.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_36_문자열뒤의n글자.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_37_조건에맞게수열변환하기3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_44_문자열붙여서출력하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_45_대문자와소문자.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_46_이어붙인수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_47_소문자로바꾸기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_48_카운트업.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_49_문자열로반환.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_50_글자이어붙문자열만들기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_51_문자열정수의합.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_52_조건에맞게수열변경하기1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_53_n번째원소까지.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_54_뒤에서5등까지.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_55_카운트다운.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_56_길이에따른연산.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_57_뒤에서5등위로.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_58_5명씩.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_59_홀짝에따라다른값반환하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_60_배열에서문자열대소문자변환하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_61_공백으로구분하기1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_62_문자열곱하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_63_접미사인지확인하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_66_두연산비교하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_67_더크게합치기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_68_A강조하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_69_n보다커질때까지더하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_70_공백으로구분하기2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_71_정수찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_72_배열비교하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_73_n번째원소부터.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_74_부분문자열.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_75_배열의길이에따라다른연산하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_77_개미군단.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_78_주사위의개수.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_79_문자열정렬하기1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_80_최댓값만들기2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_81_인덱스바꾸기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_82_가장큰수찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_83_주사위게임1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_84_꼬리문자열.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_85_부분문자열인지확인하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_86_부분문자열.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_87_배열의원소삭제하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_88_0떼기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_90_문자열바꿔서찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_91_ad제거하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_92_배열의원소만큼추가하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_93_특정한문자를대문자로바꾸기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_94_대문자로바꾸기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_95_원하는문자열찾기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_96_할일목록.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_98_순서바꾸기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_99_수조작하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv0_배열만들기1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lv_0_56_길이에따른연산.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N과M1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N과M2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N과M3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N과M4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N과M5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getOrDefault.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getOrDefault2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programmers_001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programmers_002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programmers_003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programmers_004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.programmers_005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.starr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/iseungmin/Desktop/Lee/programmers_coding_practice/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.34982333&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lv0_01_양꼬치.executor": "Run",
+    "Application.Lv0_01양꼬치.executor": "Run",
+    "Application.Lv0_06아이스아메리카노.executor": "Run",
+    "Application.Lv0_07배열두배만들기.executor": "Run",
+    "Application.Lv0_08배열원소의길이.executor": "Run",
+    "Application.Lv0_09삼각형의완성조건.executor": "Run",
+    "Application.Lv0_0_34_암호해독.executor": "Run",
+    "Application.Lv0_100_홀짝구분하기.executor": "Run",
+    "Application.Lv0_101_직각삼각형출력하기.executor": "Run",
+    "Application.Lv0_102_콜라츠수열만들기.executor": "Run",
+    "Application.Lv0_103_배열회전시키기.executor": "Run",
+    "Application.Lv0_103_외계행성의나이.executor": "Run",
+    "Application.Lv0_104_약수구하기.executor": "Run",
+    "Application.Lv0_105_숫자찾기.executor": "Run",
+    "Application.Lv0_106_문자열정렬하기.executor": "Run",
+    "Application.Lv0_108_i로만들기.executor": "Run",
+    "Application.Lv0_109_369게임.executor": "Run",
+    "Application.Lv0_10짝수홀수개수.executor": "Run",
+    "Application.Lv0_111_문자리스트를문자열로변환하기.executor": "Run",
+    "Application.Lv0_112_팩토리얼.executor": "Run",
+    "Application.Lv0_113_k의개수.executor": "Run",
+    "Application.Lv0_114_A로B만들기.executor": "Run",
+    "Application.Lv0_115_문자열섞기.executor": "Run",
+    "Application.Lv0_116_간단한식계산하기.executor": "Run",
+    "Application.Lv0_117_주사위게임2.executor": "Run",
+    "Application.Lv0_118_문자열돌리기.executor": "Run",
+    "Application.Lv0_119_가까운1찾기.executor": "Run",
+    "Application.Lv0_11_배열자르기.executor": "Run",
+    "Application.Lv0_120_세로읽기.executor": "Run",
+    "Application.Lv0_121_중복된문자제거.executor": "Run",
+    "Application.Lv0_122_날짜비교하기.executor": "Run",
+    "Application.Lv0_123_글자지우기.executor": "Run",
+    "Application.Lv0_124_문자열뒤집기.executor": "Run",
+    "Application.Lv0_125_7의개수.executor": "Debug",
+    "Application.Lv0_125_숨어있는숫자의덧셈2.executor": "Run",
+    "Application.Lv0_125_한번만등장한문자.executor": "Debug",
+    "Application.Lv0_126_1로만들기.executor": "Run",
+    "Application.Lv0_127_세개의구분자.executor": "Run",
+    "Application.Lv0_128_문자열반복해서출력하기.executor": "Run",
+    "Application.Lv0_129_특수문자출력하기.executor": "Run",
+    "Application.Lv0_12_피자나눠먹기3.executor": "Run",
+    "Application.Lv0_130_커피심부름.executor": "Debug",
+    "Application.Lv0_131_잘라서배열로저장하기.executor": "Run",
+    "Application.Lv0_132_한번만등장한문자.executor": "Run",
+    "Application.Lv0_133_a와b출력하기.executor": "Run",
+    "Application.Lv0_135_문자열겹쳐쓰기.executor": "Run",
+    "Application.Lv0_136_조건문자열.executor": "Run",
+    "Application.Lv0_137_대소문자바꿔서출력하기.executor": "Run",
+    "Application.Lv0_13_특정문자제거하기.executor": "Run",
+    "Application.Lv0_14_문자열안에문자열.executor": "Run",
+    "Application.Lv0_15_각도기.executor": "Run",
+    "Application.Lv0_16_피자나눠먹기1.executor": "Run",
+    "Application.Lv0_17_최댓값만들기1.executor": "Run",
+    "Application.Lv0_18_자릿수더하기.executor": "Run",
+    "Application.Lv0_20_중앙값구하기.executor": "Run",
+    "Application.Lv0_21_짝수의합.executor": "Run",
+    "Application.Lv0_22_배열의평균값.executor": "Run",
+    "Application.Lv0_23_배열뒤집기.executor": "Run",
+    "Application.Lv0_24_점의위치구하기.executor": "Run",
+    "Application.Lv0_25_배열의유사도.executor": "Run",
+    "Application.Lv0_26_문자반복출력하기.executor": "Run",
+    "Application.Lv0_27_모음제거.executor": "Run",
+    "Application.Lv0_28_제곱수판별하기.executor": "Run",
+    "Application.Lv0_29_숨어있는숫자의덧셈1.executor": "Run",
+    "Application.Lv0_30_n의배수고르기.executor": "Run",
+    "Application.Lv0_31_짝수는싫어요.executor": "Run",
+    "Application.Lv0_32_가위바위보.executor": "Run",
+    "Application.Lv0_33_공배수.executor": "Run",
+    "Application.Lv0_35_정수부분.executor": "Run",
+    "Application.Lv0_36_문자열뒤의n글자.executor": "Run",
+    "Application.Lv0_37_조건에맞게수열변환하기3.executor": "Run",
+    "Application.Lv0_44_문자열붙여서출력하기.executor": "Run",
+    "Application.Lv0_45_대문자와소문자.executor": "Run",
+    "Application.Lv0_46_이어붙인수.executor": "Run",
+    "Application.Lv0_47_소문자로바꾸기.executor": "Run",
+    "Application.Lv0_48_카운트업.executor": "Run",
+    "Application.Lv0_49_문자열로반환.executor": "Run",
+    "Application.Lv0_50_글자이어붙문자열만들기.executor": "Run",
+    "Application.Lv0_51_문자열정수의합.executor": "Run",
+    "Application.Lv0_52_조건에맞게수열변경하기1.executor": "Run",
+    "Application.Lv0_53_n번째원소까지.executor": "Run",
+    "Application.Lv0_54_뒤에서5등까지.executor": "Run",
+    "Application.Lv0_55_카운트다운.executor": "Run",
+    "Application.Lv0_56_길이에따른연산.executor": "Run",
+    "Application.Lv0_57_뒤에서5등위로.executor": "Run",
+    "Application.Lv0_58_5명씩.executor": "Run",
+    "Application.Lv0_59_홀짝에따라다른값반환하기.executor": "Run",
+    "Application.Lv0_60_배열에서문자열대소문자변환하기.executor": "Run",
+    "Application.Lv0_61_공백으로구분하기1.executor": "Run",
+    "Application.Lv0_62_문자열곱하기.executor": "Run",
+    "Application.Lv0_63_접미사인지확인하기.executor": "Run",
+    "Application.Lv0_66_두연산비교하기.executor": "Run",
+    "Application.Lv0_67_더크게합치기.executor": "Run",
+    "Application.Lv0_68_A강조하기.executor": "Run",
+    "Application.Lv0_69_n보다커질때까지더하기.executor": "Run",
+    "Application.Lv0_70_공백으로구분하기2.executor": "Run",
+    "Application.Lv0_71_정수찾기.executor": "Run",
+    "Application.Lv0_72_배열비교하기.executor": "Run",
+    "Application.Lv0_73_n번째원소부터.executor": "Run",
+    "Application.Lv0_74_부분문자열.executor": "Run",
+    "Application.Lv0_75_배열의길이에따라다른연산하기.executor": "Run",
+    "Application.Lv0_77_개미군단.executor": "Run",
+    "Application.Lv0_78_주사위의개수.executor": "Run",
+    "Application.Lv0_79_문자열정렬하기1.executor": "Run",
+    "Application.Lv0_80_최댓값만들기2.executor": "Run",
+    "Application.Lv0_81_인덱스바꾸기.executor": "Run",
+    "Application.Lv0_82_가장큰수찾기.executor": "Run",
+    "Application.Lv0_83_주사위게임1.executor": "Run",
+    "Application.Lv0_84_꼬리문자열.executor": "Run",
+    "Application.Lv0_85_부분문자열인지확인하기.executor": "Run",
+    "Application.Lv0_86_부분문자열.executor": "Run",
+    "Application.Lv0_87_배열의원소삭제하기.executor": "Run",
+    "Application.Lv0_88_0떼기.executor": "Run",
+    "Application.Lv0_90_문자열바꿔서찾기.executor": "Run",
+    "Application.Lv0_91_ad제거하기.executor": "Run",
+    "Application.Lv0_92_배열의원소만큼추가하기.executor": "Run",
+    "Application.Lv0_93_특정한문자를대문자로바꾸기.executor": "Run",
+    "Application.Lv0_94_대문자로바꾸기.executor": "Run",
+    "Application.Lv0_95_원하는문자열찾기.executor": "Run",
+    "Application.Lv0_96_할일목록.executor": "Run",
+    "Application.Lv0_98_순서바꾸기.executor": "Run",
+    "Application.Lv0_99_수조작하기.executor": "Run",
+    "Application.Lv0_배열만들기1.executor": "Run",
+    "Application.Lv_0_56_길이에따른연산.executor": "Run",
+    "Application.N과M1.executor": "Run",
+    "Application.N과M2.executor": "Run",
+    "Application.N과M3.executor": "Run",
+    "Application.N과M4.executor": "Run",
+    "Application.N과M5.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.getOrDefault.executor": "Run",
+    "Application.getOrDefault2.executor": "Run",
+    "Application.programmers_001.executor": "Run",
+    "Application.programmers_002.executor": "Run",
+    "Application.programmers_003.executor": "Run",
+    "Application.programmers_004.executor": "Run",
+    "Application.programmers_005.executor": "Run",
+    "Application.starr.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.연습.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/iseungmin/Desktop/Lee/programmers_coding_practice/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.34982333",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lv0_136_조건문자열">
-    <configuration name="Lv0_131_잘라서배열로저장하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_131_잘라서배열로저장하기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Lv0_137_대소문자바꿔서출력하기">
     <configuration name="Lv0_132_한번만등장한문자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_132_한번만등장한문자" />
       <module name="programmers_coding_practice" />
@@ -273,13 +256,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_137_대소문자바꿔서출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_137_대소문자바꿔서출력하기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_137_대소문자바꿔서출력하기" />
         <item itemvalue="Application.Lv0_136_조건문자열" />
         <item itemvalue="Application.Lv0_135_문자열겹쳐쓰기" />
         <item itemvalue="Application.Lv0_133_a와b출력하기" />
         <item itemvalue="Application.Lv0_132_한번만등장한문자" />
-        <item itemvalue="Application.Lv0_131_잘라서배열로저장하기" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +324,8 @@
       <workItem from="1720968606925" duration="2593000" />
       <workItem from="1721228201609" duration="732000" />
       <workItem from="1721312185142" duration="798000" />
+      <workItem from="1721398372819" duration="529000" />
+      <workItem from="1721481271507" duration="893000" />
     </task>
     <servers />
   </component>
