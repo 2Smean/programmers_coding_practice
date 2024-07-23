@@ -95,6 +95,7 @@
     &quot;Application.Lv0_138_문자열출력하기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_139_PCCE기출문제1번_출력.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_13_특정문자제거하기.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_140_2차원으로만들기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_14_문자열안에문자열.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_15_각도기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_16_피자나눠먹기1.executor&quot;: &quot;Run&quot;,
@@ -205,20 +206,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lv0_140_2차원으로만들기">
-    <configuration name="Lv0_136_조건문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_136_조건문자열" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv0_141_공던지기">
     <configuration name="Lv0_137_대소문자바꿔서출력하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_137_대소문자바꿔서출력하기" />
       <module name="programmers_coding_practice" />
@@ -271,13 +259,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_141_공던지기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_141_공던지기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_141_공던지기" />
         <item itemvalue="Application.Lv0_140_2차원으로만들기" />
         <item itemvalue="Application.Lv0_139_PCCE기출문제1번_출력" />
         <item itemvalue="Application.Lv0_138_문자열출력하기" />
         <item itemvalue="Application.Lv0_137_대소문자바꿔서출력하기" />
-        <item itemvalue="Application.Lv0_136_조건문자열" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +329,8 @@
       <workItem from="1721312185142" duration="798000" />
       <workItem from="1721398372819" duration="529000" />
       <workItem from="1721481271507" duration="9749000" />
+      <workItem from="1721660296001" duration="660000" />
+      <workItem from="1721745631015" duration="391000" />
     </task>
     <servers />
   </component>
