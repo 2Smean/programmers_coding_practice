@@ -99,6 +99,7 @@
     &quot;Application.Lv0_141_공던지기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_142_가까운수.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_143_수조작하기2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv0_144_9로나눈나머지.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_14_문자열안에문자열.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_15_각도기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv0_16_피자나눠먹기1.executor&quot;: &quot;Run&quot;,
@@ -209,20 +210,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lv0_144_9로나눈나머지">
-    <configuration name="Lv0_140_2차원으로만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_140_2차원으로만들기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv0_145_외계행성의나이">
     <configuration name="Lv0_141_공던지기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_141_공던지기" />
       <module name="programmers_coding_practice" />
@@ -275,13 +263,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv0_145_외계행성의나이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_145_외계행성의나이" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv0_145_외계행성의나이" />
         <item itemvalue="Application.Lv0_144_9로나눈나머지" />
         <item itemvalue="Application.Lv0_143_수조작하기2" />
         <item itemvalue="Application.Lv0_141_공던지기" />
         <item itemvalue="Application.Lv0_142_가까운수" />
-        <item itemvalue="Application.Lv0_140_2차원으로만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -336,6 +337,7 @@
       <workItem from="1721745631015" duration="1196000" />
       <workItem from="1721832528446" duration="919000" />
       <workItem from="1721916430261" duration="201000" />
+      <workItem from="1722003422909" duration="744000" />
     </task>
     <servers />
   </component>
