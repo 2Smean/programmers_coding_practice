@@ -104,6 +104,7 @@
     "Application.Lv0_146_문자열묶기.executor": "Run",
     "Application.Lv0_147_리스트자르기.executor": "Run",
     "Application.Lv0_148_특정문자열로끝나가장문자열찾기.executor": "Run",
+    "Application.Lv0_149_옹알이1.executor": "Run",
     "Application.Lv0_14_문자열안에문자열.executor": "Run",
     "Application.Lv0_15_각도기.executor": "Run",
     "Application.Lv0_16_피자나눠먹기1.executor": "Run",
@@ -178,6 +179,7 @@
     "Application.Lv0_98_순서바꾸기.executor": "Run",
     "Application.Lv0_99_수조작하기.executor": "Run",
     "Application.Lv0_배열만들기1.executor": "Run",
+    "Application.Lv1_01_문자열내p와y의개수.executor": "Debug",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.N과M1.executor": "Run",
@@ -215,20 +217,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv0_149_옹알이1">
-    <configuration name="Lv0_146_문자열묶기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_146_문자열묶기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv1_01_문자열내p와y의개수">
     <configuration name="Lv0_147_리스트자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_147_리스트자르기" />
       <module name="programmers_coding_practice" />
@@ -268,6 +257,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv1_01_문자열내p와y의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_01_문자열내p와y의개수" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lch.jcg.Main" />
       <module name="programmers_coding_practice" />
@@ -283,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv1_01_문자열내p와y의개수" />
         <item itemvalue="Application.Lv0_149_옹알이1" />
         <item itemvalue="Application.Lv0_148_특정문자열로끝나가장문자열찾기" />
         <item itemvalue="Application.Lv0_147_리스트자르기" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Lv0_146_문자열묶기" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +348,10 @@
       <workItem from="1722090341441" duration="1389000" />
       <workItem from="1722260155347" duration="701000" />
       <workItem from="1722346425745" duration="1248000" />
-      <workItem from="1722437313729" duration="1280000" />
+      <workItem from="1722437313729" duration="1979000" />
+      <workItem from="1723014933056" duration="17000" />
+      <workItem from="1723015198128" duration="2000" />
+      <workItem from="1723536972549" duration="2948000" />
     </task>
     <servers />
   </component>
