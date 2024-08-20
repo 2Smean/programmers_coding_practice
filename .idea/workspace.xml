@@ -181,6 +181,7 @@
     "Application.Lv0_배열만들기1.executor": "Run",
     "Application.Lv1_01_문자열내p와y의개수.executor": "Run",
     "Application.Lv1_02_짝수와홀수.executor": "Run",
+    "Application.Lv1_03_문자열을정수로바꾸기.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.N과M1.executor": "Run",
@@ -218,20 +219,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv1_02_짝수와홀수">
-    <configuration name="Lv0_147_리스트자르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_147_리스트자르기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv1_03_문자열을정수로바꾸기">
     <configuration name="Lv0_148_특정문자열로끝나가장문자열찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level0.Lv0_148_특정문자열로끝나가장문자열찾기" />
       <module name="programmers_coding_practice" />
@@ -284,13 +272,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv1_03_문자열을정수로바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_03_문자열을정수로바꾸기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv1_03_문자열을정수로바꾸기" />
         <item itemvalue="Application.Lv1_02_짝수와홀수" />
         <item itemvalue="Application.Lv1_01_문자열내p와y의개수" />
         <item itemvalue="Application.Lv0_149_옹알이1" />
         <item itemvalue="Application.Lv0_148_특정문자열로끝나가장문자열찾기" />
-        <item itemvalue="Application.Lv0_147_리스트자르기" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +354,8 @@
       <workItem from="1723014933056" duration="17000" />
       <workItem from="1723015198128" duration="2000" />
       <workItem from="1723536972549" duration="3194000" />
-      <workItem from="1723622751365" duration="378000" />
+      <workItem from="1723622751365" duration="542000" />
+      <workItem from="1724146109387" duration="491000" />
     </task>
     <servers />
   </component>
