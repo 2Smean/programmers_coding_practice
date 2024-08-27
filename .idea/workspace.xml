@@ -184,7 +184,7 @@
     "Application.Lv1_03_문자열을정수로바꾸기.executor": "Run",
     "Application.Lv1_04_평균구하기.executor": "Run",
     "Application.Lv1_05_자릿수더하기.executor": "Run",
-    "Application.Lv1_06_자연수뒤집어배열로만들기.executor": "Debug",
+    "Application.Lv1_06_자연수뒤집어배열로만들기.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.N과M1.executor": "Run",
@@ -360,23 +360,12 @@
       <workItem from="1723622751365" duration="542000" />
       <workItem from="1724146109387" duration="1789000" />
       <workItem from="1724237191696" duration="225000" />
-      <workItem from="1724507100094" duration="2893000" />
+      <workItem from="1724507100094" duration="3179000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lsm/level1/Lv1_06_자연수뒤집어배열로만들기.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
