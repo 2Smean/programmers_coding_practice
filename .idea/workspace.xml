@@ -185,6 +185,7 @@
     "Application.Lv1_04_평균구하기.executor": "Run",
     "Application.Lv1_05_자릿수더하기.executor": "Run",
     "Application.Lv1_06_자연수뒤집어배열로만들기.executor": "Run",
+    "Application.Lv1_09_하샤드수.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.N과M1.executor": "Run",
@@ -222,20 +223,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv1_06_자연수뒤집어배열로만들기">
-    <configuration name="Lv1_02_짝수와홀수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_02_짝수와홀수" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv1_09_하샤드수">
     <configuration name="Lv1_03_문자열을정수로바꾸기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_03_문자열을정수로바꾸기" />
       <module name="programmers_coding_practice" />
@@ -288,13 +276,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv1_09_하샤드수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_09_하샤드수" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv1_09_하샤드수" />
         <item itemvalue="Application.Lv1_06_자연수뒤집어배열로만들기" />
         <item itemvalue="Application.Lv1_05_자릿수더하기" />
         <item itemvalue="Application.Lv1_04_평균구하기" />
         <item itemvalue="Application.Lv1_03_문자열을정수로바꾸기" />
-        <item itemvalue="Application.Lv1_02_짝수와홀수" />
       </list>
     </recent_temporary>
   </component>
@@ -361,6 +362,7 @@
       <workItem from="1724146109387" duration="1789000" />
       <workItem from="1724237191696" duration="225000" />
       <workItem from="1724507100094" duration="3179000" />
+      <workItem from="1724740049118" duration="1620000" />
     </task>
     <servers />
   </component>
