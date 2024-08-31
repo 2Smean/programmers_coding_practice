@@ -18,6 +18,6 @@ public class Lv1_10_서울에서김서방찾기 {
 
     public static void main(String[] args) {
         String[] seoul = {"Jane", "Kim"};
-        System.out.println(solution(seoul));  
+        System.out.println(solution(seoul));
     }
 }
