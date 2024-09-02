@@ -188,6 +188,7 @@
     &quot;Application.Lv1_09_하샤드수.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv1_10_서울에서김서방찾기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv1_11_두정수사이의값.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv1_12_약수의합.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv_0_56_길이에따른연산.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.N과M1.executor&quot;: &quot;Run&quot;,
@@ -365,6 +366,9 @@
       <workItem from="1724237191696" duration="225000" />
       <workItem from="1724507100094" duration="3179000" />
       <workItem from="1724740049118" duration="3576000" />
+      <workItem from="1725257161875" duration="648000" />
+      <workItem from="1725295248645" duration="90000" />
+      <workItem from="1725295352284" duration="285000" />
     </task>
     <servers />
   </component>
