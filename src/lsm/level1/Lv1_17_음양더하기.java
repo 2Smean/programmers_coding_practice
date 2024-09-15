@@ -20,6 +20,6 @@ public class Lv1_17_음양더하기 {
 
     public static void main(String[] args) {
         // 테스트 출력
-        System.out.println(solution(new int[] {1, 2, 3}, new boolean[] {false, false, true})); 
+        System.out.println(solution(new int[] {1, 2, 3}, new boolean[] {false, false, true}));
     }
 }
