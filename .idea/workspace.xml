@@ -193,6 +193,7 @@
     "Application.Lv1_17_음양더하기.executor": "Run",
     "Application.Lv1_18_나머지가1이되는수찾기.executor": "Run",
     "Application.Lv1_20_부족한금액계산하기.executor": "Run",
+    "Application.Lv1_21_행렬의덧셈.executor": "Run",
     "Application.Lv_0_56_길이에따른연산.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.N과M1.executor": "Run",
@@ -230,20 +231,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lv1_20_부족한금액계산하기">
-    <configuration name="Lv1_12_약수의합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_12_약수의합" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv1_21_행렬의덧셈">
     <configuration name="Lv1_13_핸드폰번호가리기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_13_핸드폰번호가리기" />
       <module name="programmers_coding_practice" />
@@ -296,13 +284,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv1_21_행렬의덧셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_21_행렬의덧셈" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv1_21_행렬의덧셈" />
         <item itemvalue="Application.Lv1_20_부족한금액계산하기" />
         <item itemvalue="Application.Lv1_18_나머지가1이되는수찾기" />
         <item itemvalue="Application.Lv1_17_음양더하기" />
         <item itemvalue="Application.Lv1_13_핸드폰번호가리기" />
-        <item itemvalue="Application.Lv1_12_약수의합" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +376,7 @@
       <workItem from="1725295352284" duration="285000" />
       <workItem from="1725295779019" duration="564000" />
       <workItem from="1725545725505" duration="4176000" />
-      <workItem from="1726322369440" duration="2728000" />
+      <workItem from="1726322369440" duration="4778000" />
     </task>
     <servers />
   </component>

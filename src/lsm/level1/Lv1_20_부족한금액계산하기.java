@@ -13,6 +13,6 @@ public class Lv1_20_부족한금액계산하기 {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(3, 20, 4));  
+        System.out.println(solution(3, 20, 4));
     }
 }
