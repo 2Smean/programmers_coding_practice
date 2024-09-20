@@ -30,6 +30,6 @@ public class Lv1_22_이상한문자만들기 {
 
     public static void main(String[] args) {
         String input = "try hello world";
-        System.out.println(solution(input));  
+        System.out.println(solution(input));
     }
 }
