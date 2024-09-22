@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Lv1_24_없는숫자더하기 {
 
     private static int solution(int[] numbers) {
-x        int totalSum = 45;
+        int totalSum = 45;
 
         int sumOfNumbers = Arrays.stream(numbers).sum();
 
