@@ -198,6 +198,7 @@
     &quot;Application.Lv1_23_같은숫자는싫어.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv1_24_없는숫자더하기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv1_25_x만큼간격이있n개의숫자.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lv1_26_내적.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lv_0_56_길이에따른연산.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.N과M1.executor&quot;: &quot;Run&quot;,
@@ -235,20 +236,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lv1_26_내적">
-    <configuration name="Lv1_22_이상한문자만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_22_이상한문자만들기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv1_27_예산">
     <configuration name="Lv1_23_같은숫자는싫어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_23_같은숫자는싫어" />
       <module name="programmers_coding_practice" />
@@ -301,13 +289,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv1_27_예산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_27_예산" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv1_27_예산" />
         <item itemvalue="Application.Lv1_26_내적" />
         <item itemvalue="Application.Lv1_25_x만큼간격이있n개의숫자" />
         <item itemvalue="Application.Lv1_24_없는숫자더하기" />
         <item itemvalue="Application.Lv1_23_같은숫자는싫어" />
-        <item itemvalue="Application.Lv1_22_이상한문자만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -382,6 +383,7 @@
       <workItem from="1725545725505" duration="4176000" />
       <workItem from="1726322369440" duration="8259000" />
       <workItem from="1727016699772" duration="809000" />
+      <workItem from="1727103251980" duration="832000" />
     </task>
     <servers />
   </component>
