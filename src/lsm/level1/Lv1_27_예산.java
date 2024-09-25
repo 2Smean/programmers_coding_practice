@@ -29,6 +29,6 @@ public class Lv1_27_예산 {
     public static void main(String[] args) {
         int[] d2 = {2, 2, 3, 3};
         int budget2 = 10;
-        System.out.println(solution(d2, budget2));  
+        System.out.println(solution(d2, budget2));
     }
 }
