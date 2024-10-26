@@ -238,20 +238,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lv1_28_직사각형별찍기">
-    <configuration name="Lv1_24_없는숫자더하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_24_없는숫자더하기" />
-      <module name="programmers_coding_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lsm.level1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lv1_33_두개뽑아서더하기">
     <configuration name="Lv1_25_x만큼간격이있n개의숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_25_x만큼간격이있n개의숫자" />
       <module name="programmers_coding_practice" />
@@ -304,13 +291,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lv1_33_두개뽑아서더하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_33_두개뽑아서더하기" />
+      <module name="programmers_coding_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lv1_33_두개뽑아서더하기" />
         <item itemvalue="Application.Lv1_28_직사각형별찍기" />
         <item itemvalue="Application.Lv1_27_예산" />
         <item itemvalue="Application.Lv1_26_내적" />
         <item itemvalue="Application.Lv1_25_x만큼간격이있n개의숫자" />
-        <item itemvalue="Application.Lv1_24_없는숫자더하기" />
       </list>
     </recent_temporary>
   </component>
