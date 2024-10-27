@@ -23,6 +23,6 @@ public class Lv1_33_두개뽑아서더하기 {
 
     public static void main(String[] args) {
         int[] numbers2 = {5, 0, 2, 7};
-        System.out.println(Arrays.toString(solution(numbers2))); 
+        System.out.println(Arrays.toString(solution(numbers2)));
     }
 }
