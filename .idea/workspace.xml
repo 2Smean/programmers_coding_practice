@@ -219,6 +219,7 @@
     "Application.programmers_005.executor": "Run",
     "Application.starr.executor": "Run",
     "Application.test.executor": "Run",
+    "Application.가장가까운같은글자.executor": "Run",
     "Application.연습.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -391,7 +392,7 @@
       <workItem from="1727794463546" duration="697000" />
       <workItem from="1727966077557" duration="1073000" />
       <workItem from="1729083823977" duration="1392000" />
-      <workItem from="1729953392654" duration="1061000" />
+      <workItem from="1729953392654" duration="1736000" />
     </task>
     <servers />
   </component>
