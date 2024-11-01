@@ -44,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BigO1.executor": "Run",
     "Application.Lv0_01_양꼬치.executor": "Run",
     "Application.Lv0_01양꼬치.executor": "Run",
     "Application.Lv0_06아이스아메리카노.executor": "Run",
@@ -240,7 +241,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.가장가까운같은글자">
+  <component name="RunManager" selected="Application.BigO1">
     <configuration name="가장가까운같은글자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lsm.level1.가장가까운같은글자" />
       <module name="programmers_coding_practice" />
@@ -254,12 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lv1_26_내적" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lsm.level1.Lv1_26_내적" />
+    <configuration name="BigO1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.bigO.BigO1" />
       <module name="programmers_coding_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lsm.level1.*" />
+          <option name="PATTERN" value="algorithms.bigO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigO1" />
         <item itemvalue="Application.가장가까운같은글자" />
         <item itemvalue="Application.Lv1_33_두개뽑아서더하기" />
         <item itemvalue="Application.Lv1_28_직사각형별찍기" />
         <item itemvalue="Application.Lv1_27_예산" />
-        <item itemvalue="Application.Lv1_26_내적" />
       </list>
     </recent_temporary>
   </component>
@@ -393,6 +394,7 @@
       <workItem from="1727966077557" duration="1073000" />
       <workItem from="1729083823977" duration="1392000" />
       <workItem from="1729953392654" duration="1736000" />
+      <workItem from="1730456050739" duration="3486000" />
     </task>
     <servers />
   </component>
